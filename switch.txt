@@ -1,0 +1,4 @@
+login:test 
+password:test
+priv_password:test
+port:24
